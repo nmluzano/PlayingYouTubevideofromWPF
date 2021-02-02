@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingYouTubevideofromWPF", "PlayingYouTubevideofromWPF\PlayingYouTubevideofromWPF.csproj", "{4AB4D796-27A6-4B82-945E-FCD448F470FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AB4D796-27A6-4B82-945E-FCD448F470FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB4D796-27A6-4B82-945E-FCD448F470FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB4D796-27A6-4B82-945E-FCD448F470FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB4D796-27A6-4B82-945E-FCD448F470FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6687453A-1542-47CC-8FEF-70C6134DF6F2}
+	EndGlobalSection
+EndGlobal
